@@ -109,6 +109,7 @@ Qual é o seu objetivo inicial? Você já tem um problema específico para resol
 ### 🎯 **Próximos Passos**
 1. **Você já tem os dados de micro paradas e quebras disponíveis?** Se sim, podemos começar pela análise exploratória. Se não, o primeiro passo será coletar e estruturar esses dados.
 
+- R: Não
 
 Ótimo, Andre! Como seus dados estão no Microsoft Fabric e você tem o **Azure AutoML Studio** disponível, podemos estruturar a coleta e o pipeline da seguinte forma:
 
