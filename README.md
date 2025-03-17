@@ -4,6 +4,9 @@ Boa tarde, Andre! Vamos lá! Vou te passar o passo a passo geral para um projeto
 
 ### 📌 **Passos para um Projeto de Machine Learning**:
 
+![image](https://github.com/user-attachments/assets/8b575974-8a33-4215-86c7-b9517be85965)
+
+
 1. **Definição do Problema**:
    - Entenda o objetivo do projeto: previsão, classificação, recomendação, etc.
    - Identifique as métricas de sucesso (ex.: acurácia, precisão, recall).
